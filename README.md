@@ -10,44 +10,39 @@ Information Technology Infrastructure Engineer @ NHS England.
 ## 🛠️ Technologies and tools
 
 - **Configuration Management**:
-  - ![Ansible](https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg =50x50) Ansible
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" width="50" height="50"> Ansible
 
 - **Containerization and Orchestration**:
-  - ![Docker](https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg =50x50) Docker
-  - ![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg =50x50) Kubernetes
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="50" height="50"> Docker
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="50" height="50"> Kubernetes
 
 - **Cloud Platforms**:
-  - ![AWS](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg =50x50) AWS (Amazon Web Services)
-  - ![Azure](https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg =50x50) Azure
-  - ![GCP](https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg =50x50) Google Cloud Platform
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" height="50"> AWS (Amazon Web Services)
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="50" height="50"> Azure
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" width="50" height="50"> Google Cloud Platform
 
 - **Infrastructure as Code**:
-  - ![Terraform](https://upload.wikimedia.org/wikipedia/commons/9/95/Terraform_Logo.svg =50x50) Terraform
-  - ![CloudFormation](https://upload.wikimedia.org/wikipedia/commons/6/60/CloudFormation_logo.svg =50x50) CloudFormation
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Terraform_Logo.svg" width="50" height="50"> Terraform
+  - <img src="https://bicep.dev/images/logo.png" width="50" height="50"> Bicep
 
 - **Continuous Integration and Continuous Deployment (CI/CD)**:
-  - ![Jenkins](https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg =50x50) Jenkins
-  - ![GitLab](https://upload.wikimedia.org/wikipedia/commons/1/18/GitLab_Logo.svg =50x50) GitLab CI/CD
-  - ![CircleCI](https://upload.wikimedia.org/wikipedia/commons/8/8a/CircleCI_logo.svg =50x50) CircleCI
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" width="50" height="50"> Jenkins
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/GitLab_Logo.svg" width="50" height="50"> GitLab CI/CD
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/CircleCI_logo.svg" width="50" height="50"> CircleCI
 
 - **Version Control Systems**:
-  - ![Git](https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg =50x50) Git
-  - ![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg =50x50) GitHub
-  - ![Bitbucket](https://upload.wikimedia.org/wikipedia/commons/1/19/Bitbucket_logo.svg =50x50) Bitbucket
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50" height="50"> Git
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" height="50"> GitHub
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Bitbucket_logo.svg" width="50" height="50"> Bitbucket
 
 - **Monitoring and Logging**:
-  - ![Prometheus](https://upload.wikimedia.org/wikipedia/commons/0/04/Prometheus_software_logo.svg =50x50) Prometheus
-  - ![Grafana](https://upload.wikimedia.org/wikipedia/commons/1/1d/Grafana_Logo.svg =50x50) Grafana
-  - ![ELK](https://upload.wikimedia.org/wikipedia/commons/6/67/Elasticsearch_logo.svg =50x50) ELK Stack
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Prometheus_software_logo.svg" width="50" height="50"> Prometheus
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Grafana_Logo.svg" width="50" height="50"> Grafana
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Elasticsearch_logo.svg" width="50" height="50"> ELK Stack
 
 - **Virtualization**:
-  - ![VMWare](https://upload.wikimedia.org/wikipedia/commons/6/6a/Vmware-logo.svg =50x50) VMWare
-  - ![Hyper-V](https://upload.wikimedia.org/wikipedia/commons/3/3d/Hyper-V_logo.svg =50x50) Hyper-V
-
-- **Scripting and Automation**:
-  - ![Bash](https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg =50x50) Bash
-  - ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg =50x50) Python
-  - ![PowerShell](https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png =50x50) PowerShell
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/VMware_logo_plain.svg" width="50" height="50"> VMWare
+  - <img src="https://upload.wikimedia.org
 
 
 
