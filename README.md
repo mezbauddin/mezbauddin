@@ -1,7 +1,8 @@
 # Hello, World❗️
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&?quote=Technologyisatoolforexploringtheworld&?author=Houddinii)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Technology%20is%20a%20tool%20for%20exploring%20the%20world,%20philosophy%20is%20a%20way%20of%20understanding%20it,%20leadership%20is%20a%20skill%20for%20influencing%20it,%20and%20learning%20is%20a%20process%20of%20adapting%20to%20it.&author=Mezba)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 ## 🛠  Technologies and tools
 
