@@ -1,7 +1,7 @@
 # Hello, World❗️
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=test&author=Houddinii)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Technology is a tool for exploring the world&author=Houddinii)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🛠  Technologies and tools
 
