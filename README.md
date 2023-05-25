@@ -2,7 +2,7 @@
 
 My name is Valentin Briand. I am a freelance frontend developer living near Paris, France. 🥐
 
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=test&author=Mezba Uddin)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🛠  Technologies and tools
 
