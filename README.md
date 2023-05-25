@@ -9,6 +9,9 @@ Information Technology Infrastructure Engineer @ NHS England.
 
 ## 🛠️ Technologies and tools
 
+- ![Bash](https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg) Bash
+- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
+- ![PowerShell](https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png) PowerShell
 
 
 
