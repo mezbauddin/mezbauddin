@@ -25,6 +25,16 @@ Information Technology Infrastructure Engineer @ NHS England.
 [![Prince2 Foundation](https://img.shields.io/badge/Prince2-Foundation-009D7D?style=for-the-badge)](https://www.axelos.com/certifications/prince2-certifications)
 
 
+## 📚 Skills and Certifications
+
+[![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/110x110/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](CREDLY_BADGE_LINK)
+[![Microsoft Certified: Azure Solutions Architect Expert](https://images.credly.com/size/110x110/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png)](CREDLY_BADGE_LINK)
+[![CompTIA Security+](https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png)](CREDLY_BADGE_LINK)
+[![Mimecast - Warrior™](https://images.credly.com/size/110x110/images/e312fee3-7d04-48df-9daf-76d83940cd8a/image.png)](CREDLY_BADGE_LINK)
+[![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/110x110/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](CREDLY_BADGE_LINK)
+[![Microsoft Certified Solution Expert: MCSE](https://images.credly.com/size/110x110/images/1f573e41-f5bf-48ed-a22c-171f0b889e4f/MCSE_Productivity-01.png)](CREDLY_BADGE_LINK)
+
+
 
 ## 🌱 What I am currently learning / improving on
 
