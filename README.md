@@ -11,6 +11,19 @@
 - Mac
 - Management
 
+## 📚 Skills and Certifications
+
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-0052CC?style=for-the-badge&logo=CompTIA&logoColor=white)](https://www.comptia.org/certifications/security)
+[![Microsoft Certified: Azure Administrator Associate](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Administrator%20Associate-0078D7?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)](https://docs.microsoft.com/learn/certifications/azure-administrator-associate/)
+[![Microsoft Certified Solution Expert: MCSE](https://img.shields.io/badge/Microsoft%20Certified%20Solution%20Expert-MCSE-0078D7?style=for-the-badge&logo=Microsoft&logoColor=white)](https://docs.microsoft.com/learn/certifications/mcse-solutions-expert/)
+[![MCSA: Windows Server 2012](https://img.shields.io/badge/MCSA-Windows%20Server%202012-0078D7?style=for-the-badge&logo=Microsoft&logoColor=white)](https://docs.microsoft.com/learn/certifications/mcsa-windows-server-2012/)
+[![MCPS: Microsoft Certified Professional](https://img.shields.io/badge/MCPS-Microsoft%20Certified%20Professional-0078D7?style=for-the-badge&logo=Microsoft&logoColor=white)](https://www.microsoft.com/en-us/learning/microsoft-certified-professional.aspx)
+[![Mimecast - Warrior™](https://img.shields.io/badge/Mimecast-Warrior%E2%84%A2-00AEEF?style=for-the-badge)](https://www.mimecast.com/products/mimecast-for-email/cyber-security/warrior-training/)
+[![Microsoft Certified: DevOps Engineer Expert](https://img.shields.io/badge/Microsoft%20Certified-DevOps%20Engineer%20Expert-0078D7?style=for-the-badge&logo=Microsoft&logoColor=white)](https://docs.microsoft.com/learn/certifications/devops-engineer/)
+[![Prince2 Foundation](https://img.shields.io/badge/Prince2-Foundation-009D7D?style=for-the-badge)](https://www.axelos.com/certifications/prince2-certifications)
+
+
+
 ## 🌱 What I am currently learning / improving on
 
 - Dockerizing Django with Postgres, Gunicorn, and Nginx
