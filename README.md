@@ -42,7 +42,12 @@ Information Technology Infrastructure Engineer @ NHS England.
 
 - **Virtualization**:
   - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/VMware_logo_plain.svg" width="50" height="50"> VMWare
-  - <img src="https://upload.wikimedia.org
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Hyper-V_logo.svg" width="50" height="50"> Hyper-V
+
+- **Scripting and Automation**:
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="50" height="50"> Bash
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50"> Python
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="50" height="50"> PowerShell
 
 
 
