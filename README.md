@@ -22,7 +22,7 @@ Information Technology Infrastructure Engineer @ NHS England.
   - <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" width="50" height="50"> Google Cloud Platform
 
 - **Infrastructure as Code**:
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Terraform_Logo.svg" width="50" height="50"> Terraform
+  - <img src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg" width="50" height="50"> Terraform
   - <img src="https://bicep.dev/images/logo.png" width="50" height="50"> Bicep
 
 - **Continuous Integration and Continuous Deployment (CI/CD)**:
@@ -42,12 +42,8 @@ Information Technology Infrastructure Engineer @ NHS England.
 
 - **Virtualization**:
   - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/VMware_logo_plain.svg" width="50" height="50"> VMWare
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Hyper-V_logo.svg" width="50" height="50"> Hyper-V
+  - <img
 
-- **Scripting and Automation**:
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="50" height="50"> Bash
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50"> Python
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="50" height="50"> PowerShell
 
 
 
