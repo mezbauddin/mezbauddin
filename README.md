@@ -1,6 +1,7 @@
 # Hello, World 👋
 
-Information Technology Infrastructure Engineer @ NHS England. [![NHS England](https://www.england.nhs.uk/wp-content/uploads/2018/04/nhs-england-logo.png)](https://www.england.nhs.uk/)
+Information Technology Infrastructure Engineer @ [![NHS England](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/NHS_England_logo.svg/91px-NHS_England_logo.svg.png?20211229025249)](https://www.england.nhs.uk/)
+
 
 
 ![Profile views](https://gpvc.arturio.dev/mezbauddin)
