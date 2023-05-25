@@ -2,7 +2,7 @@
 
 My name is Valentin Briand. I am a freelance frontend developer living near Paris, France. 🥐
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=“Technology is a tool for exploring the world, philosophy is a way of understanding it, leadership is a skill for influencing it, and learning is a process of adapting to it.” - Bing&author=Mezba Uddin)]
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=“Technology is a tool for exploring the world, philosophy is a way of understanding it, leadership is a skill for influencing it, and learning is a process of adapting to it.” - Bing&author=Mezba Uddin)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🛠  Technologies and tools
 
