@@ -38,8 +38,9 @@ Information Technology Infrastructure Engineer @ [NHS England](https://www.engla
 
 ## 🌱 What I am currently learning / improving on
 
-- Dockerizing Django with Postgres, Gunicorn, and Nginx
-- Azure PowerShell
+- Docker, Terraform, Ansible 
+- Django with Postgres, Gunicorn, Nginx, taefik
+- PowerShell, Python
 
 ## 🤔 What I am interested in learning at some point
 
