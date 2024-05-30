@@ -16,7 +16,9 @@ Information Technology Infrastructure Engineer @ [NHS England](https://www.engla
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" height="65px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" height="65px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="65px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="65px">  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="65px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" height="65px">
+
 </div>
 
 
@@ -55,6 +57,6 @@ Information Technology Infrastructure Engineer @ [NHS England](https://www.engla
 
 ## 🏆 Awards and Recognition
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" height="65px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Microsoft_MVP_banner.png/220px-Microsoft_MVP_banner.png" alt="MVP" height="65px">
 
 
