@@ -49,7 +49,3 @@ Information Technology Infrastructure Engineer @ [NHS England](https://www.engla
 
 - [LinkedIn](https://www.linkedin.com/in/mezbauddin/)
 - [Website](https://mezbauddin.com)
-
-## 📊 GitHub Stats
-
-![Mezba's GitHub stats](https://github-readme-stats.vercel.app/api?username=mezbauddin&show_icons=true&theme=radical)
