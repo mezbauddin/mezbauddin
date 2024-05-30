@@ -17,12 +17,9 @@ Information Technology Infrastructure Engineer @ [NHS England](https://www.engla
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" height="65px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="65px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="65px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" height="65px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/100px-Microsoft_Azure.svg.png" alt="Azure" height="65px">
 
 </div>
-
-
-
 
 
 ## 📚 Skills and Certifications
@@ -34,7 +31,9 @@ Information Technology Infrastructure Engineer @ [NHS England](https://www.engla
 [![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/110x110/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](CREDLY_BADGE_LINK)
 [![Microsoft Certified Solution Expert: MCSE](https://images.credly.com/size/110x110/images/1f573e41-f5bf-48ed-a22c-171f0b889e4f/MCSE_Productivity-01.png)](CREDLY_BADGE_LINK)
 
+## 🏆 Awards and Recognition
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Microsoft_MVP_banner.png/220px-Microsoft_MVP_banner.png" alt="MVP" height="65px">
 
 ## 🌱 What I am currently learning / improving on
 
@@ -54,9 +53,3 @@ Information Technology Infrastructure Engineer @ [NHS England](https://www.engla
 ## 📊 GitHub Stats
 
 ![Mezba's GitHub stats](https://github-readme-stats.vercel.app/api?username=mezbauddin&show_icons=true&theme=radical)
-
-## 🏆 Awards and Recognition
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Microsoft_MVP_banner.png/220px-Microsoft_MVP_banner.png" alt="MVP" height="65px">
-
-
